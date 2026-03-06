@@ -1,0 +1,5 @@
+name_user = input("Please enter your name : ")
+age_user = input("Please enter your age : ")
+house_num_user = input("Please enter your house number : ")
+street_name_user = input("Please enter your street name : ")
+print(f"Hello {name_user}, you are {age_user} years old and live at house number {house_num_user} on {street_name_user}")
