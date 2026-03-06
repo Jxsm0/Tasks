@@ -1,1 +1,28 @@
+Pseudo.txt
 
+request a positive integer from user
+	Store integer
+	If integer is not equal to 0, request another positive integer from user
+	If integer>integer2, delete integer2
+	If integer2>integer, replace integer with integer2, then delete integer
+	If integer equals 0, print integer
+
+request users first_name
+print first_name + "Hello world"
+
+request integer from user
+	Count integers digits
+	Give the Digits 1 through n their numerical value
+	AVerage = Add up the value of digits 1 through n and divide by the number of digits
+	Print average
+
+Read grocery list
+	list all grocery list items alphapetically
+	If item is already in basket, delete item
+	Print items
+
+Read x and Y
+	S = X+Y
+	A = S/2
+	P = X * Y
+	Print S, A, P 
